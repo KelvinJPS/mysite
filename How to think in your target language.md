@@ -1,54 +1,87 @@
-
-# How to think in your target language
-Most language learners always the question of how to start thinking on their  target language. I'll show you in this article a set of strategies that will allow you  to start from a basic level to progressively develop your ability to produce thoughts in your target language and therefore develop your ***writing** and **speaking** abilities.
-
+Most language learners often wonder how to start thinking in their target language. In this article, I'll show you a set of strategies that will allow you to start from a basic level to progressively develop your ability to produce thoughts in your target language, therefore develop your **writing** and **speaking** abilities.
 
 ## Start  writing
 
 ### Why?
-If you start speaking you don't only need to think about what you want to say, you also have to think how to pronounce it correctly.
-But this won't be the usual writing that you're used to in school, where you write or copy   textbooks exercises,  this type of writing requires to write your own thoughts. But you'd say, If don't know how to "think" in my target language, how I'm supposed to write my thoughts in my target language? so it's true that  there is not much that you can write about at the beginning, you should still be able to have some basic thoughts by doing **immersion** in your target language.
+If you start speaking, you not only need to think about what you want to say, but you also have to think about how to pronounce it correctly.
+However, when you're writing instead of speaking, you have time to think about what you want to say, you can look up words, recall words or phrases from content that you watched, etc.
+But this won't be the usual writing that you're used to  in school, where you write or copy textbook exercises; this type of writing requires you to write your own thoughts, but you might say: 
 
-**Immersion what's that?** 
+>If I don't know how to "think" in my target language, how am I supposed to write my thoughts in it?
 
-Immersion is when you watch a lot TV shows, movies, videos, read books, articles etc.
-It's basically the step 0 before trying the strategies I'll present.  still you can start applying the strategies as you keep immersing in the language.
-The thing is that **immersion** alone will not suffice  you won't be able to produce developed thoughts to have a conversation.
-You need to consciously do it and you need practice. The following strategies have helped me a lot in my language learning journey and I hope they help you too.
+It's true that there isn't much that you can write about at the beginning, but you should still be able to have some basic thoughts by doing **immersion** in your target language.
+
+### What is immersion?
+Language Immersion is when you consume content in your target language. It could be TV shows, movies, videos, books, articles, or even just having conversations with native speakers, as long as you're consuming real content that you can at least somewhat understand.
+
+**The input hypothesis**:
+>This states that learners progress in their knowledge of the language when they comprehend language input that is slightly more advanced than their current level. Krashen called this level of input "i+1", where "i" is the learner's interlanguage and "+1" is the next stage of language acquisition.
+
+It's basically the previous step, before trying the strategies I'll present. Still, you can start applying the strategies as you keep immersing in the language.
+The thing is that immersion alone will not suffice. You won't be able to produce developed thoughts to have a conversation. You need to train the muscle to form ideas in your target language. The following strategies have helped me to do exactly that, and I hope they help you too.
+
 ### To-do lists
 
-A simple writing format are To-do lists.
+A simple writing format is a To-do list.
 For example: 
 
 **English**
+
 - [ ] buy food
 - [ ] do laundry 
 
 **Spanish**
+
 - [ ] Comprar comida 
 - [ ] Lavar la ropa 
 
 **French**
- - [ ] Acheter de la nourriture
- - [ ] Faire la lessive
 
-When you write To do lists you basically speak in the present, and that's the simplest tense to use in most languages also you can use basic vocab and the structure it's also simple to follow, and as a bonus you'll always have things to do, so it's easy to do it  consistently every day and **consistency** it's the most important thing for developing your thinking in your second language. 
-###  Continuing from immersion's words/sentences. 
+- [ ] Acheter de la nourriture
+- [ ] Faire la lessive
 
+When you write to-do lists, you basically speak in the present tense, and that's the simplest tense to use in most languages. Also, you can use basic vocab, and the structure is also simple to follow. As a bonus, you'll always have things to do, so it's easy to do it consistently every day, and **consistency** is the most important thing for developing your thinking in your second language. 
 
-This is also a simple one, take a sentence, or word that you read/listen from a piece of content in your target language, and try continue to forms sentences,
-starting with that word/sentence
+###  Continuing from the immersion's words/sentences. 
+
+This is also a simple one: take a sentence or word that you read/listened to from a piece of content in your target language, and try to continue to form sentences using that word or sentence. 
+For example, you might learn the word "Dégoûtant" in French, which means disgusting. 
+And you can form the following sentence: "La nourriture dans ce restaurant était dégoûtante". "The food in that restaurant was disgusting."
+It might not be the best example (I just came up with it), but the point is to take words from the content that you watch and form your own sentences, and that way it's easier than starting from scratch.
 
 
 ###  Making reviews
 
-So after you watched a video, movie, TV show , book or whatever. Write about it, the easiest way to start it's to summarize it, then write a review about
-what you thought about it.
+After you watched a video, movie, TV show, book, or whatever, write about what you think about it, what made you feel, or just summarize it. If your vocabulary and skills are not that advanced, just try to summarize what you watched, read, or listened to. 
+
+Below is an example that  I did with the French TV show Standing Up
+
+**Drôle série sur Netflix**
+
+
+La série parle de comédiens qui essaient de progresser dans leur carrière et de tous les problèmes qu'ils rencontrent dans leur quotidien.
+Je l'ai beaucoup aimée parce que j'ai trouvé l'histoire des personnages principaux très amusante. 
+
+
+I want to add to this strategy, to post comments in whatever platform that let's you do it, like in youtube, in social media, in platforms like Webtoon anytime that you have the opportunity to share your thoughts in your target language about what do you thing about something that you like or disklike, take the opportunity and interact with the community in that language. 
 
 
 ### keeping a journal 
 
-Keeping a journal it's another effective way to practice your thinking, as when you speak with another person they usually ask you about your day, like what you did today and stuff, the other thing that they usually ask you is about your plans which you write it on your journal too. Finally you can keep a daily journal and you have also the consistency with this strategy 
-### Content creation in your target language strategy
+Keeping a journal is another effective way to practice your thinking, as when you speak with another person, they usually ask you about your day, your plans,  like what you did today, and that kind of stuff. Finally, you can keep a daily journal, so you have the consistency part down with this strategy, too.
 
-You can do a blog/newsletter for writing and something like a youtube channel or similar for speaking, basically what I'm doing, writing a blog or doing a youtube channel, will help you to form even more complex thoughts and improve a ton in your target language, basically what I'm hoping to achieve.
+For example, an entry from a journal that I used to keep in French, called le midi journal (Because I used to always write at noon)
+
+
+>le série drôle c'est pas renouveler, c'est dommage, c'est la merde en fait.
+ aujourd'hui j'ai commencé à nouvelle série appelée le 7 vies de Lea.
+ aujourd'hui mon père parti de venezuela pour arriver ici. 
+ c'est tout à demain
+
+It has many errors, but the point is to keep writing, check your mistakes, and keep improving every day.
+
+### Content creation in your target language 
+
+You can do a blog/newsletter for writing or something like a youtube channel and similar for speaking, basically what I'm doing with this post, the purpose is to share with others your thoughts, doing this will help you to refine your ideas, and doing content for others to see, will make you to want to maintain a higher quality that just for yourself.
+
+
