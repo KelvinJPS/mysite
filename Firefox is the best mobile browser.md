@@ -7,24 +7,17 @@ category: Tech
 tags: software-recommendations, mobile
 ---
 
-Currently, Firefox for android has features that no other browser on mobile has like: 
-
-[Browser extensions](#Browser-extensions)
-[Sync](#Sync)
-[homepage configuration](#homepage-configuration)
-[better tab management](#better-tab-management)
+Firefox is an open source, private browser, one of the few mainstream browsers that supports extensions on mobile (Android) as powerful as the desktop ones (A lot of extensions have been ported), with seamless sync and a customizable homepage. 
 
 ## Browser Extensions
 
-Firefox is one of the few mainstream browser that supports extensions on mobile (Android). 
-
 There are many extensions that have improved my browsing experience dramatically, by helping me fight the **bloat** of modern web browsing. This is especially more important on mobile, where resources and screen space are more limited. 
 
-![Screenshot_20250803_093117_Firefox.jpg](images/Screenshot_20250803_093117_Firefox.jpg)
+![Firefox's extension store for android](images/Screenshot_20250803_093117_Firefox.jpg)
 
 The extension store is very similar to the desktop one. My browsing use case on my phone is to read articles, look up something quickly, buy things in online stores, or just see what people are saying online. When I do that, I don't want to see ads, and I don't want pop-ups taking up half of my screen.
 No, I don't want to download your **app**, 
-The website is fine; I don't want to talk with your AI chat. I'm not interested in receiving fake notifications either. And I might have subscribed to your newsletter if you hadn't put a pop-up while I was midway through reading your article. 
+_The website is fine_; I don't want to talk with your AI chat. I'm not interested in receiving fake notifications either. And I might have subscribed to your newsletter if you hadn't put a pop-up while I was midway through reading your article. 
 
 The following extensions have helped me in my fight against bloat and antipatterns on the web. Making my time on the web rather  a  pleasant experience
 
@@ -114,23 +107,18 @@ Are you wasting time on the web?
 Install [Lechblock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)
 You can block websites, set time limits and more with Lechblock 
 
+## Sync
 
-
-##   Sync
-
- The other nice thing, about Firefox is that if you use Firefox on desktop, you can sync your data between your phone and your desktop easily.
+The other nice thing, about Firefox is that if you use Firefox on desktop, you can sync your data between your phone and your desktop easily.
  
 ![Pasted image 20250816193149.png](images/Pasted image 20250816193149.png)
 You can see the tabs opened on your desktop 
 
-
 ![Pasted image 20250816193413.png](images/Pasted image 20250816193413.png)
-
 
 A useful feature is send to the  desktop Where yoYouan send tabs for checking them later  on your computer.
 
 ![Pasted image 20250816193554.png](images/Pasted image 20250816193554.png)
-
 
 ## customize homepage 
 
