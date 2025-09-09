@@ -1,26 +1,34 @@
 ---
 title: Firefox is the best mobile browser
 date: 2025-08-22
-draft: false
+draft: true  
 share: true
+category: Tech
+tags: software-recommendations, mobile
 ---
-Currently, Firefox has features that no major browser has, like:
-## Browser Extensions on mobile 
 
-Firefox is the only mainstream browser that supports extensions on mobile (Android ) and the reason I won't get an !Phone.
+Currently, Firefox for android has features that no other browser on mobile has like: 
 
-There are many extensions, that have improved my browsing experience dramatically, by helping me fight the **bloat** of modern web browsing. This is especially more important on mobile, where resources and screen space are more limited. 
+[Browser extensions](#Browser-extensions)
+[Sync](#Sync)
+[homepage configuration](#homepage-configuration)
+[better tab management](#better-tab-management)
 
-The extension store is very similar to the desktop one. My browsing use case on my phone is to read articles, look up something quickly, buy things in online stores, or just see what people are saying online. When I do that, I don't want to see ads, and I don't want pop-ups taking up half of my screen.
-No, I don't want to download your **app**, 
-_the website is fine_, Nor I want to talk with your AI chat. I'm not interested in receiving fake notifications either. And I might have subscribed to your newsletter if you didn't put a pop-up while I was midway through reading your article. 
+## Browser Extensions
 
-The following extensions have helped me in my fight against bloat and antipatterns on the web. Making my time on the web rather  a  pleasant experience
-If you just want the full list go here it is !
+
+
+Firefox is one of the few mainstream browser that supports extensions on mobile (Android). 
+
+There are many extensions that have improved my browsing experience dramatically, by helping me fight the **bloat** of modern web browsing. This is especially more important on mobile, where resources and screen space are more limited. 
 
 ![[Screenshot_20250803_093117_Firefox.jpg]]
 
- I hate ads and banners
+The extension store is very similar to the desktop one. My browsing use case on my phone is to read articles, look up something quickly, buy things in online stores, or just see what people are saying online. When I do that, I don't want to see ads, and I don't want pop-ups taking up half of my screen.
+No, I don't want to download your **app**, 
+The website is fine; I don't want to talk with your AI chat. I'm not interested in receiving fake notifications either. And I might have subscribed to your newsletter if you hadn't put a pop-up while I was midway through reading your article. 
+
+The following extensions have helped me in my fight against bloat and antipatterns on the web. Making my time on the web rather  a  pleasant experience
 
 [Ublock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)  is the best ad blocker. Besides blocking ads, it also blocks other annoyances such as mobile banners, like those super annoying ones where they tell you to download their app instead of letting you use their website
 
