@@ -1,7 +1,7 @@
 +++
 title = "Why"
 date = 2024-06-27
-draft = false 
+draft = true 
 +++
 ## The purpose of this website
 
