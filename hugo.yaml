@@ -10,7 +10,7 @@ menu:
       weight: 1
 
     - name: Blog
-      url: "Blog/"
+      url: "blog/"
       weight: 2
 
     - name: Subscribe
