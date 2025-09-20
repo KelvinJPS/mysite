@@ -1,0 +1,3 @@
+[submodule "content/Blog"]
+	path = content/Blog
+	url = git@github.com:KelvinJPS/Blog.git
