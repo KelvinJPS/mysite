@@ -1,3 +1,8 @@
+---
+title: "How to think in your target language"
+categories: [Language-learning]
+tags: [output]
+---
 Most language learners often wonder how to start thinking in their target language. In this article, I'll show you a set of strategies that will allow you to start from a basic level to progressively develop your ability to produce thoughts in your target language, therefore develop your **writing** and **speaking** abilities.
 
 ## Start  writing
