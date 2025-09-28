@@ -1,10 +1,10 @@
 ---
 title: Firefox is the best mobile browser
 date: 2025-08-22
-draft: true  
+draft: false 
 share: true
-category: Tech
-tags: software-recommendations, mobile
+category: [Tech] 
+tags: [software-recommendations, mobile]
 ---
 
 Firefox is an open source, private browser, one of the few mainstream browsers that supports extensions on mobile (Android) as powerful as the desktop ones (A lot of extensions have been ported), with seamless sync and a customizable homepage. 
