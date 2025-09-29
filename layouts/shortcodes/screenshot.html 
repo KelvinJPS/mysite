@@ -1,0 +1,56 @@
+{{/* Params (all optional except src)
+   - src:        image filename in the page bundle (e.g. "screen.png")
+   - alt:        alt text
+   - innerw:     desktop max width  (default: 1100)
+   - innerh:     desktop max height (default: 770)
+   - mobilemaxw: cap for mobile image width in px (default: 900)
+   - breakpoint: CSS px where desktop asset is used (default: 900)
+*/}}
+
+{{ $src        := .Get "src" }}
+{{ $alt        := .Get "alt" | default "" }}
+{{ $innerW     := .Get "innerw"     | default "1100" | int }}
+{{ $innerH     := .Get "innerh"     | default "770"  | int }}
+{{ $mobileMaxW := .Get "mobilemaxw" | default "900"  | int }}
+{{ $breakpoint := .Get "breakpoint" | default "900"  | int }}
+
+{{ if not $src }}{{ errorf "screenshot-picture: missing param %q" "src" }}{{ end }}
+
+{{/* Load image */}}
+{{ $img := .Page.Resources.GetMatch $src }}
+{{ if not $img }}{{ $img = resources.Get $src }}{{ end }}
+{{ if not $img }}{{ errorf "screenshot-picture: resource %q not found. Put it in the page bundle or /assets." $src }}{{ end }}
+
+{{/* Mobile (near original, no upscaling) */}}
+{{ $origW := $img.Width }}
+{{ $mob1w := cond (lt $origW $mobileMaxW) $origW $mobileMaxW }}
+{{ $mob2cand := mul $mob1w 2 }}
+{{ $mob2w := cond (lt $mob2cand $origW) $mob2cand $origW }}
+
+{{ $mobile1x := $img.Resize (printf "%dx q90" $mob1w) }}
+{{ $mobile2x := $img.Resize (printf "%dx q85" $mob2w) }}
+
+{{/* Desktop (fit into innerW × innerH) */}}
+{{ $desk1x := $img.Fit (printf "%dx%d q90" $innerW $innerH) }}
+{{ $desk2x := $img.Fit (printf "%dx%d q85" (mul $innerW 2) (mul $innerH 2)) }}
+
+{{ $bpMinus := sub $breakpoint 1 }}
+
+<picture>
+  <!-- Mobile first: below breakpoint, serve near-original -->
+  <source media="(max-width: {{ $bpMinus }}px)"
+          srcset="{{ $mobile1x.RelPermalink }} 1x, {{ $mobile2x.RelPermalink }} 2x">
+
+  <!-- Desktop: at/above breakpoint, serve fitted variant -->
+  <source media="(min-width: {{ $breakpoint }}px)"
+          srcset="{{ $desk1x.RelPermalink }} 1x, {{ $desk2x.RelPermalink }} 2x">
+
+  <!-- Fallback (no <picture> support): mobile asset -->
+  <img
+    src="{{ $mobile1x.RelPermalink }}"
+    srcset="{{ $mobile1x.RelPermalink }} 1x, {{ $mobile2x.RelPermalink }} 2x"
+    alt="{{ $alt }}"
+    loading="lazy"
+    decoding="async"
+    style="max-width:100%;height:auto">
+</picture>
