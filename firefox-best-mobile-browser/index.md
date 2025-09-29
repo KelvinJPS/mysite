@@ -3,8 +3,9 @@ title: Firefox is the best mobile browser
 date: 2025-08-22
 draft: false 
 share: true
-category: [Tech] 
+category: [Tech]
 tags: [software-recommendations, mobile]
+toc: true
 ---
 
 Firefox is an open source, private browser, one of the few mainstream browsers that supports extensions on mobile (Android) as powerful as the desktop ones (A lot of extensions have been ported), with seamless sync and a customizable homepage. 
@@ -13,7 +14,7 @@ Firefox is an open source, private browser, one of the few mainstream browsers t
 
 There are many extensions that have improved my browsing experience dramatically, by helping me fight the **bloat** of modern web browsing. This is especially more important on mobile, where resources and screen space are more limited. 
 
-![Firefox's extension store for android](images/Screenshot_20250803_093117_Firefox.jpg)
+![Firefox's extension store for android](assets/images/Screenshot_20250803_093117_Firefox.jpg)
 
 The extension store is very similar to the desktop one. My browsing use case on my phone is to read articles, look up something quickly, buy things in online stores, or just see what people are saying online. When I do that, I don't want to see ads, and I don't want pop-ups taking up half of my screen.
 No, I don't want to download your **app**, 
