@@ -1,6 +1,6 @@
 ---
 title: Firefox is the best mobile browser
-date: 2025-08-22
+date: 2025-10-10
 draft: false 
 share: true
 category: [Tech]
@@ -14,7 +14,7 @@ Firefox is an open source, private browser, one of the few mainstream browsers t
 
 There are many extensions that have improved my browsing experience dramatically, by helping me fight the **bloat** of modern web browsing. This is especially more important on mobile, where resources and screen space are more limited. 
 
-![Firefox's extension store for android](assets/images/Screenshot_20250803_093117_Firefox.jpg)
+![Firefox's extension store for android](/images/Screenshot_20250803_093117_Firefox.jpg)
 
 The extension store is very similar to the desktop one. My browsing use case on my phone is to read articles, look up something quickly, buy things in online stores, or just see what people are saying online. When I do that, I don't want to see ads, and I don't want pop-ups taking up half of my screen.
 No, I don't want to download your **app**, 
@@ -26,15 +26,11 @@ The following extensions have helped me in my fight against bloat and antipatter
 
  **Amazon your app sucks and I won't use it** ![Screenshot_20250803_121220_Firefox 1.jpg](images/Screenshot_20250803_121220_Firefox_1.jpg)
  
-Then, with the ublock enabled 
-
-![Screenshot_20250816_182703_Firefox.jpg](images/Screenshot_20250816_182703_Firefox.jpg)
-
 
 ### Ublock filter lists
 Here it's my the filter list that I use that not only removes those install the app for the  _best experience_. They also remove other annoyances like  chat widgets, newsletter notices, popups, cookie banners, etc.
 
-![Screenshot_20250803_094456_Firefox.jpg](images/Screenshot_20250803_094456_Firefox.jpg)
+![Screenshot_20250803_094456_Firefox.jpg](/images/Screenshot_20250803_094456_Firefox.jpg)
 
 To activate it go to  the 
 extensions menus.
