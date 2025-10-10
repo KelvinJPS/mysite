@@ -3,7 +3,7 @@ title: Firefox is the best mobile browser
 date: 2025-10-10
 draft: false 
 share: true
-category: [Tech]
+categories: [Tech]
 tags: [software-recommendations, mobile]
 toc: true
 ---
@@ -120,4 +120,4 @@ A useful feature is send to the  desktop Where yoYouan send tabs for checking th
 
 ## customize homepage 
 
-you can customize the home page to only leave what you want. I for example remove sponsored shortcuts and stories.
+you can customize the home page to only leave what you want. I for example remove sponsored shortcuts and stories.claude
