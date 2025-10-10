@@ -1,14 +1,11 @@
 ---
 title: Making scripts for family and friends
 Date: 2025-06-01
-draft: false
+draft: true
 share: true
 Updated:
 ---
 
-title= "Simple small scripts for family and friends"
-date= 2024-10-21
-draft= false 
 
 
 
