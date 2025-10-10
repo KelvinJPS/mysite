@@ -13,14 +13,11 @@ like: [feeder(android) free and open source app ](https://play.google.com/store/
 
 
 ## Email 
-or if you prefer email:
+Or if you prefer email:
 
-Language learning Newsletter
-https://kelvinjps.substack.com/subscribe
+[Language learning Newsletter](https://kelvinjps.substack.com/subscribe)
 
-Lifestyle/productivity Newsletter 
-https://kelvinjps.substack.com/subscribe
+[Lifestyle/productivity Newsletter](https://kelvinjps.substack.com/subscribe)
 
 
-Tech Newsletter
-https://kelvindev.substack.com/subscribe?params=%5Bobject%20Object%5D
+[Tech Newsletter](https://kelvindev.substack.com/subscribe)
