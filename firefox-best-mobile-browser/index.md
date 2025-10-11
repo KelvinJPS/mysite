@@ -45,7 +45,7 @@ There is the step by step tutorial with images
 
 ![Screenshot_20250803_122720_Firefox 1.jpg](images/Screenshot_20250803_122720_Firefox_1.jpg)
  
-## I hate the Medium UI 
+### I hate the Medium UI 
 
 So when you open a medium article you get the following delightful UX
 
@@ -73,12 +73,12 @@ Compare with the nitter frontent also using LibRedirect  where you can actually 
 
 
 ![Screenshot_20250803_174021_Firefox 1.jpg](images/Screenshot_20250803_174021_Firefox_1.jpg)
-## Don't fuck with paste 
+### Don't fuck with paste 
 
 This one is self-explanatory, but if you hate that some sites don't let you paste as me, this is for you.
 
 [Don't fuck with paste](https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-## Can I just listen to something in the background?
+###  Can I just listen to something in the background?
 
 This extensions will allow you to fix issues in some sites where they don't let you to play audio in the background 
 
@@ -87,7 +87,7 @@ This extensions will allow you to fix issues in some sites where they don't let 
 ![Screenshot_20250803_175928_Firefox 1.jpg](images/Screenshot_20250803_175928_Firefox_1.jpg)
 
 
-## 404 Not found 
+### 404 Not found 
 
 ![unnamed.png](images/unnamed.png)
 
@@ -99,7 +99,7 @@ It even let's you to choose from multiple archive sites
 
 ![Screenshot_20250803_180421_Firefox 3 1.jpg](images/Screenshot_20250803_180421_Firefox_3_1.jpg)
 
-## Stop wasting time on the web 
+### Stop wasting time on the web 
 
 Are you wasting time on the web?  
 Install [Lechblock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)
