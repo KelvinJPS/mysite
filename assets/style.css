@@ -105,6 +105,13 @@ figure {
 	margin: 0;
 }
 
+figcaption {
+	text-align: center;
+	font-style: italic;
+	font-size: 0.9em;
+	margin-top: 0.5rem;
+}
+
 a {
 	color: var(--accent-color);
 	padding: 0.2rem;
