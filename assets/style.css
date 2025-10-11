@@ -140,6 +140,10 @@ picture {
 	margin-right: auto;
 }
 
+li {
+	padding-top: 0.7em;
+}
+
 /* Clickable images */
 a img,
 a picture {
