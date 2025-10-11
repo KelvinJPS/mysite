@@ -124,5 +124,4 @@ A useful feature is send to the  desktop Where you can send tabs for checking th
 ## customize homepage 
 
 you can customize the home page to only leave what you want. I for example remove sponsored shortcuts and stories  from the page 
-
-![Homepage configuration](Screenshot_20250803_175928_Firefox_1%201.jpg)
+![customize homepage](images/Screenshot_20251010_215341_Firefox_1.jpg)
