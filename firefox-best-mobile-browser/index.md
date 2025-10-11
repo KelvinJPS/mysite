@@ -28,7 +28,7 @@ The following extensions have helped me in my fight against bloat and antipatter
 
  **Amazon your app sucks and I won't use it** ![Amazon's app pop-up](images/Screenshot_20250803_121220_Firefox_1.jpg)
  
-#### Ublock filter lists
+### Ublock filter lists
 
 Here it's my the filter list that I use that not only removes those install the app for the  _best experience_. They also remove other annoyances like  chat widgets, newsletter notices, popups, cookie banners, etc.
 
@@ -89,7 +89,7 @@ This extensions will allow you to fix issues in some sites where they don't let 
 ![Video background play fix store page](images/Screenshot_20250803_175928_Firefox_1.jpg)
 
 
-## 404 Not found 
+### 404 Not found 
 
 ![404 not found](images/unnamed.png)
 
