@@ -2,7 +2,7 @@
 title: Subscribe to this blog 
 ---
 ## RSS feeds 
-You can get updates when I post something by that RSS feed link just copy and paste the [link's feed](kelvinjps.com/index.xml/) over your feed reader app. 
+You can get updates when I post something by that RSS feed link just copy and paste the [link's feed](/index.xml/) over your feed reader app. 
 like: [feeder(android) free and open source app ](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)  
 [netnewswire(IOS) free and open source app](https://netnewswire.com/)
 
