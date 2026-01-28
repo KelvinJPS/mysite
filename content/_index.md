@@ -1,9 +1,6 @@
 ---
 title: Home
-description: Kelvin's personal website, here I share my interest on language learning, tech, and productivity/lyfestyle.
+description: Kelvin's personal website, here I write about my interests and what I learn.
 ---
 # Hi, I'm Kelvin 
- This is my personal website. I enjoy spending time either learning or building stuff Here in this website I share what I learn and projects.  I write [articles](/blog) on  [language learning](/categories/language-learning)
- and [Tech](/categories/tech)
-you can check also my projects at [projects](/projects)
-and if you want to know me more you can check my [about page](/about)
+ This is my personal website. I enjoy spending time either learning or building stuff. I like to write about what interests me and what I learn, check [my blog](/blog), I'm  mostly interested into [language learning](/categories/language-learning) and [Tech](/categories/tech) If you want to know more about me check my [about page](/about)
