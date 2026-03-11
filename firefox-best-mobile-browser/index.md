@@ -47,7 +47,7 @@ There is the step by step tutorial with images
 
 ![filter list menu select ](images/Screenshot_20250803_122720_Firefox_1.jpg)
  
-### I hate the Medium UI (Libredirect)
+## I hate the Medium UI (Libredirect)
 
 So when you open a medium article you get the following delightful UX
 
@@ -63,7 +63,7 @@ Compare that with the beautiful experience you get with the Scribe front-end.
 ![Scribe frontend with just content](images/Screenshot_20250803_123740_Firefox.jpg)  
 The extension that makes this possible is called [**LibRedirect**](https://addons.mozilla.org/en-US/android/addon/libredirect/)
 
-### X, I want to see the comments!
+## X, I want to see the comments!
 
 Twitter/x. won't let you to see the comments unless you create an account
 
@@ -75,12 +75,13 @@ Compare with the nitter frontend also using LibRedirect  where you can actually 
 
 ![Nitter frontent showing comments](images/Screenshot_20250803_174021_Firefox_1.jpg)
 
-### Don't fuck with paste 
+## Don't fuck with paste 
 
 This one is self-explanatory, but if you hate that some sites don't let you paste as me, this is for you.
 
 [Don't fuck with paste](https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-###  Can I just listen to something in the background?
+
+##  Can I just listen to something in the background?
 
 This extensions will allow you to fix issues in some sites where they don't let you to play audio in the background 
 
@@ -89,7 +90,7 @@ This extensions will allow you to fix issues in some sites where they don't let 
 ![Video background play fix store page](images/Screenshot_20250803_175928_Firefox_1.jpg)
 
 
-### 404 Not found 
+## 404 Not found 
 
 ![404 not found](images/unnamed.png)
 
@@ -101,7 +102,7 @@ It even let's you to choose from multiple archive sites
 
 ![Web archives archive site selection ](images/Screenshot_20250803_180421_Firefox_3_1.jpg)
 
-### Stop wasting time on the web 
+## Stop wasting time on the web 
 
 Are you wasting time on the web?  
 Install [Lechblock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)
