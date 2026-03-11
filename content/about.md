@@ -1,4 +1,4 @@
-# about me
+# About me
 My name is Kelvin. I come from Venezuela, and I currently live in the US. I speak 3 languages: Spanish, English, and French. My main interests are technology, language learning, and fiction/culture. I enjoy fiction in various languages and media, such as Spanish, French, and English. For example, I enjoy the format of series, as well as anime, novels, Webtoons, comics, and manga. I also like philosophy; I have primarily explored Stoicism and existentialism. The books "Meditations" by Marcus Aurelius and "L'Étranger" by Albert Camus are good books to start gaining an idea of these philosophies
 
 ## About this website
