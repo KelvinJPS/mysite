@@ -1,6 +1,3 @@
-[submodule "content/Blog"]
-	path = content/Blog
-	url = git@github.com:KelvinJPS/Blog.git
 [submodule "themes/xmin"]
 	path = themes/xmin
 	url = https://github.com/KelvinJPS/hugo-xmin.git
