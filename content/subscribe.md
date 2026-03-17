@@ -11,9 +11,13 @@ title: Subscribe to this blog
 
 
 ## RSS feeds 
-**Get updates when I post something on your favorite feed app**
-[All posts feed](/index.xml)  
+**Get updates when I post something on your favorite feed app**   
+[info about feeds if you don't know what they are](https://aboutfeeds.com/)  
+
+[All posts feed](/index.xml) 
+
 [Tech feed](/categories/tech/index.xml)  
+
 [Language learning feed](/categories/language-learning/index.xml)  
 
 In order to work you just have to copy and paste the feed's link  over your feed reader app. 
