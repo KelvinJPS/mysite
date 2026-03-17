@@ -25,3 +25,8 @@ markup:
   goldmark:
     renderer:
       unsafe: false
+
+params:
+  author:
+    name: "Kelvin"
+    email: "kelvinjps@example.com"

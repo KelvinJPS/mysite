@@ -3,12 +3,14 @@
 
 ## Doing
 
-- Publish website
-    * [ ] continous deployment anywhere(mobile,desktop)
-    * [ ] simple analytics [unique visitors, most visited posts]
-    * [ ] 
 
 ## Done
+
+- fix rss feeds
+    > currently on the rss feeds the drafts are getting published as well as non post as other pages such as about, suscribe ...
+    * [x] exclude non-blog pages (about, subscribe) from main RSS feed
+    * [x] exclude drafts from RSS feeds
+    * [x] exclude posts without titles from RSS feeds
 
 - make images responsive
     > for the firefox  article there where mobile screenshots  which are too tall for desktop create an image shortcode or template.  that creates and image of the proper size for desktop and for mobile shows the picture near original.
@@ -23,3 +25,6 @@
     * [x] center images
 - fix listings in theme
 - add footer
+- Publish website
+    * [x] continous deployment anywhere(mobile,desktop)
+    * [x] simple analytics [unique visitors, most visited posts]
